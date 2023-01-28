@@ -1,5 +1,5 @@
 ---
-title: 'Dual tuning of Ni–Co–A (A= P, Se, O) nanosheets by anion substitution and holey engineering for efficient hydrogen evolution'
+title: 'Anisotropic Black Phosphorus Synaptic Device for Neuromorphic Applications'
 authors:
   - He Tian
   - Qiushi Guo
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.acs.org/doi/full/10.1021/jacs.8b01548
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201600166
 url_code: ''
 url_dataset: ''
 url_poster: ''

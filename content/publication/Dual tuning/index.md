@@ -21,7 +21,7 @@ publishDate: '2018-04-02T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Journal of the American Chemical Society'
+publication: 'Advanced Materials'
 publication_short: ''
 
 abstract: Seeking earth-abundant electrocatalysts with high efficiency and durability has become the frontier of energy conversion research. Mixed-transition-metal (MTM)-based electrocatalysts, owing to the desirable electrical conductivity, synergistic effect of bimetal atoms, and structural stability, have recently emerged as new-generation hydrogen evolution reaction (HER) electrocatalysts. However, the correlation between anion species and their intrinsic electrocatalytic properties in MTM-based electrocatalysts is still not well understood. Here we present a novel approach to tuning the anion-dependent electrocatalytic characteristics in MTM-based catalyst for HER, using holey Ni/Co-based phosphides/selenides/oxides (Ni–Co–A, A = P, Se, O) as the model materials. The electrochemical results, combined with the electrical conductivity measurement and DFT calculation, reveal that P substitution could modulate the …
