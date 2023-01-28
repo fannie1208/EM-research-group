@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Electron Microscope 
   and 
-  Extreme Matter (EM)  
+  Extreme Matter (EM) 
   Research Group
 hero_media: welcome.jpg
 design:
