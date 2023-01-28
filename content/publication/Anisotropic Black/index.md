@@ -1,18 +1,19 @@
 ---
 title: 'Dual tuning of Ni–Co–A (A= P, Se, O) nanosheets by anion substitution and holey engineering for efficient hydrogen evolution'
 authors:
-  - Zhiwei Fang
-  - Lele Peng
-  - Yumin Qian
-  - Xiao Zhang
+  - He Tian
+  - Qiushi Guo
   - Yujun Xie
-  - Judy J Cha
-  - Guihua Yu
-date: '2018-04-02T00:00:00Z'
+  - Huan Zhao
+  - Cheng Li
+  - Judy J. Cha
+  - Fengnian Xia
+  - Han Wang
+date: '2016-04-26T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2018-04-02T00:00:00Z'
+publishDate: '2016-04-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +25,10 @@ publication_types: ['2']
 publication: 'Journal of the American Chemical Society'
 publication_short: ''
 
-abstract: Seeking earth-abundant electrocatalysts with high efficiency and durability has become the frontier of energy conversion research. Mixed-transition-metal (MTM)-based electrocatalysts, owing to the desirable electrical conductivity, synergistic effect of bimetal atoms, and structural stability, have recently emerged as new-generation hydrogen evolution reaction (HER) electrocatalysts. However, the correlation between anion species and their intrinsic electrocatalytic properties in MTM-based electrocatalysts is still not well understood. Here we present a novel approach to tuning the anion-dependent electrocatalytic characteristics in MTM-based catalyst for HER, using holey Ni/Co-based phosphides/selenides/oxides (Ni–Co–A, A = P, Se, O) as the model materials. The electrochemical results, combined with the electrical conductivity measurement and DFT calculation, reveal that P substitution could modulate the …
+abstract: The first black-phosphorus synaptic device is demonstrated, which offers intrinsic anisotropy in its synaptic characteristics directly resulting from its low crystalline symmetry. Key features of biological synapses, such as long-term plasticity with heterogeneity, including long-term potentiation/depression and spike-timing-dependent plasticity, are mimicked. This demonstration represents an important step toward introducing intrinsic heterogeneity to artificial neuromorphic systems.
 
 # Summary. An optional shortened abstract.
-summary: Seeking earth-abundant electrocatalysts with high efficiency and durability has become the frontier of energy conversion research...
+summary: This demonstration represents an important step toward introducing intrinsic heterogeneity to artificial neuromorphic systems.
 
 tags:
   - All Publications
