@@ -13,8 +13,3 @@ design:
   columns: '1'
   # Add custom styles
 ---
-
-<br>
-
-{{< postcard image="/img/news1.jpg" title="Xu Feng investigates Global Institute of Future Technology" subtitle="April 20, 2023" link="#" >}}
-{{< postcard image="/img/news2.jpg" title="Yujun Xie published a work in the top international journal Science Advances" subtitle="Jan 13, 2023" link="#" >}}
