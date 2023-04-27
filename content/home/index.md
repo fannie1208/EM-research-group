@@ -1,15 +1,8 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
-
-# Homepage is headless, other widget pages are not.
-headless: true
----
-
----
 title: Home
 # Page type - we want a landing page (such as a homepage)
 type: landing
+weight: 10
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
