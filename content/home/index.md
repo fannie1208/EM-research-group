@@ -6,5 +6,3 @@ type: widget_page
 headless: true
 ---
 
-12345
-
