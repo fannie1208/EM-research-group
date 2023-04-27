@@ -5,15 +5,15 @@
 
 widget: pages # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 20 # Order that this section will appear.
-title: News
+weight: 30 # Order that this section will appear.
+title: Featured Publications
 
 content:
   count: 5
   # Filter on criteria
   filters:
     folders:
-      - news
+      - publication
     author: ""
     category: ""
     tag: ""
