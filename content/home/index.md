@@ -17,9 +17,6 @@ sections:
 
     design:
       columns: '1'
-
-sections:
-  # A section to display blog posts
   - block: collection
     id: section-1
     content:
