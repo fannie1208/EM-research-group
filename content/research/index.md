@@ -2,10 +2,12 @@
 title: Research
 
 # Files in this folder represent a Widget Page
-type: page
+type: about
 ---
 Utilizing electron microscope, we correlate structural behaviors to their macroscopic physical properties in matters - spanning a wide class of systems includes nuclear fusion reactor, advanced manufacturing and next-generation solid state lithium-ion battery. 
+
 Currently, we are interested in employing in situ TEM and Deep Learning-based computer vision to address fundamental questions concerning the dynamic and collective response of structural and function components under their operation conditions.
+
 Students and researchers in the lab work at the intersection of nuclear materials, mechanical engineering, electron microscopy, and data science.
 •	Degradation mechanism in nuclear fusion reactor
 o	We believe fusion reactor to be a particularly rich source of not only clean energy but also unanswered scientific questions. Ranging from the first wall regions to the superconducting magnet of a fusion system represent arguably the most extreme operating condition (high temperature gradient, irradiation damage, corrosive environment) for materials ever envisioned.
