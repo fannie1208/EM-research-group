@@ -8,7 +8,7 @@ summary: The relevant research work was published in the top international journ
 abstract: The relevant research work was published in the top international journal Science Advances under the title of "Spatially resolved structural order in low-temperature liquid electrolyte".
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-04-27T00:00:00Z'
 
 
 
