@@ -2,7 +2,7 @@
 title: Research
 
 # Files in this folder represent a Widget Page
-type: widget_page
+type: page
 ---
 Utilizing electron microscope, we correlate structural behaviors to their macroscopic physical properties in matters - spanning a wide class of systems includes nuclear fusion reactor, advanced manufacturing and next-generation solid state lithium-ion battery. 
 Currently, we are interested in employing in situ TEM and Deep Learning-based computer vision to address fundamental questions concerning the dynamic and collective response of structural and function components under their operation conditions.
