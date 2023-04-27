@@ -4,7 +4,7 @@ title: Research
 # Files in this folder represent a Widget Page
 type: about
 ---
-<div style="width: 66.67%; margin: 0 auto;">
+<div style="width: 120%; margin: 0 auto;">
 <p>Utilizing electron microscope, we correlate structural behaviors to their macroscopic physical properties in matters - spanning a wide class of systems includes nuclear fusion reactor, advanced manufacturing and next-generation solid state lithium-ion battery. </p>
 
 
