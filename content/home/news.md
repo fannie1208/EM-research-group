@@ -8,7 +8,6 @@ headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
 title: |
   News
-hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +18,4 @@ design:
 
 <br>
 
-**EM Lab** aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.
+**20230420** Xu Feng, Secretary of the Municipal Science and Technology Work Party Committee, led a team to investigate Global Institute of Future Technology
