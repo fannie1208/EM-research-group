@@ -15,7 +15,7 @@ design:
   columns: '1'
 ---
 
-<div style="width: 70%; margin: 0 auto;">
+<div style="width: 90%; margin: 0 auto;">
 <p>Utilizing electron microscope, we correlate structural behaviors to their macroscopic physical properties in matters - spanning a wide class of systems includes nuclear fusion reactor, advanced manufacturing and next-generation solid state lithium-ion battery. </p>
 
 

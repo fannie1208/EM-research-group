@@ -11,6 +11,7 @@ hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  text_align_left: true
   # Add custom styles
   css_style:
   css_class:
@@ -18,4 +19,4 @@ design:
 
 <br>
 
-**Electron Microscope and Extreme Matter (EM) Lab** aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.
+<font size="4">**Electron Microscope and Extreme Matter (EM) Lab** aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</font>
