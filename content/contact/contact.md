@@ -15,11 +15,10 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: terryxie007@lbl.gov
-  phone: (215) 410-8929
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  email: yujun.xie@sjtu.edu.cn
+  phone: 021-54741175
+  address: 上海交通大学溥渊未来技术学院
+  
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas

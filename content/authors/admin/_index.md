@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yujun Xie
+title: Yujun Xie(谢宇俊)
 
 # Is this the primary user of the site?
 superuser: true
