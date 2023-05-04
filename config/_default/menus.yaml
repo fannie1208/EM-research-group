@@ -21,7 +21,7 @@ main:
     weight: 50
   - name: Principal Investigator
     parent: people
-    url: author/yujun-xie/
+    url: people/supervisor/
     weight: 10
   - name: Members
     parent: people
