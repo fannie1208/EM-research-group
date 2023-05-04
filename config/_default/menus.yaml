@@ -17,8 +17,12 @@ main:
     url: publication
     weight: 40
   - name: People
-    url: people
     weight: 50
+    submenu:
+      - name: Principal Investigator
+        url: '/author/yujun-xie/'
+      - name: Members
+        url: '/people/'
   - name: Contact
     url: contact
     weight: 60
