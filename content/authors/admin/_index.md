@@ -33,16 +33,16 @@ education:
     - course: 材料工程，学士
       institution: 德雷塞尔大学
       year: 2008
-  work:
-    - position: 助理教授
-      institution: 上海交通大学溥渊未来技术学院
-      year: 2023-至今
-    - position: 博士后
-      institution: 美国加州大学伯克利分校核工程系
-      year: 2019-2022
-    - position: 博士后
-      institution: 美国劳伦斯伯克利国家实验室国家电子显微镜中心
-      year: 2019-2022
+work:
+  - position: 助理教授
+    institution: 上海交通大学溥渊未来技术学院
+    year: 2023-至今
+  - position: 博士后
+    institution: 美国加州大学伯克利分校核工程系
+    year: 2019-2022
+  - position: 博士后
+    institution: 美国劳伦斯伯克利国家实验室国家电子显微镜中心
+    year: 2019-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
