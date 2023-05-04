@@ -17,21 +17,32 @@ organizations:
 bio: A Short bio (displayed in user profile at end of posts)
 
 interests:
-  - xxxx
-  - xxxx
-  - xxxx
+  - 先进电子显微学
+  - 聚变反应堆结构材料的失效机理
+  - 极端制造机制和技术
+  - 全固态电池失效分析
 
 education:
   courses:
-    - course: PhD in xxx
-      institution: xxx University
-      year: 2012
-    - course: Master in xxx
-      institution: xxx University
+    - course: 机械工程，博士
+      institution: 耶鲁大学
+      year: 2019
+    - course: 机械工程，硕士
+      institution: 耶鲁大学
       year: 2009
-    - course: BSc in xxx
-      institution: xxx University
+    - course: 材料工程，学士
+      institution: 德雷塞尔大学
       year: 2008
+  work:
+    - position: 助理教授
+      institution: 上海交通大学溥渊未来技术学院
+      year: 2023-至今
+    - position: 博士后
+      institution: 美国加州大学伯克利分校核工程系
+      year: 2019-2022
+    - position: 博士后
+      institution: 美国劳伦斯伯克利国家实验室国家电子显微镜中心
+      year: 2019-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,9 +52,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=aFq9XlgAAAAJ&hl=zh-CN&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  - icon: cv
+    icon_pack: ai
+    link: https://gift.sjtu.edu.cn/xyj/main.htm
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
