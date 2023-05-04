@@ -17,7 +17,6 @@ content:
 
   email: yujun.xie@sjtu.edu.cn
   phone: 021-54741175
-  address: 上海交通大学溥渊未来技术学院
   
   #contact_links:
   #  - icon: comments
