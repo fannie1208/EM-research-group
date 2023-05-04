@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#welcome' 
+    url: /
     weight: 10
   - name: News
     url: news
@@ -17,12 +17,16 @@ main:
     url: publication
     weight: 40
   - name: People
+    identifier: people
     weight: 50
-    submenu:
-      - name: Principal Investigator
-        url: '/author/yujun-xie/'
-      - name: Members
-        url: '/people/'
+  - name: Principal Investigator
+    parent: people
+    url: author/yujun-xie/
+    weight: 10
+  - name: Members
+    parent: people
+    url: people
+    weight: 20
   - name: Contact
     url: contact
     weight: 60
