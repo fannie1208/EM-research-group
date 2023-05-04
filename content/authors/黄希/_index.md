@@ -55,4 +55,11 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
