@@ -6,28 +6,21 @@
 widget: pages # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-title: News
+title: Awards
 
 content:
-  count: 5
-  # Filter on criteria
-  filters:
-    folders:
-      - news
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  title: Awards
+  items:
+    - certificate_url: https://www.coursera.org
+      date_end: ''
+      date_start: '2021-01-25'
+      description: ''
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      title: Neural Networks and Deep Learning
+      url: ''
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   # Add custom styles
-  view: showcase
 ---
