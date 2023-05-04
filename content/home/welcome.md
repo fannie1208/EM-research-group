@@ -19,4 +19,4 @@ design:
 
 <br>
 
-<font size="4">**Electron Microscope and Extreme Matter (EM) Lab** aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</font>
+<font size="5">**Electron Microscope and Extreme Matter (EM) Lab** aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</font>

@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: /
+    url: "#welcome"
     weight: 10
   - name: News
     url: news
@@ -21,7 +21,7 @@ main:
     weight: 50
   - name: Principal Investigator
     parent: people
-    url: people/supervisor/
+    url: supervisor
     weight: 10
   - name: Members
     parent: people

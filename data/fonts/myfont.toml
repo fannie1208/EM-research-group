@@ -1,8 +1,8 @@
 name = "Myfont"
 
-google_fonts = "family=Playfair+Display&family=Source+Sans+Pro"
+google_fonts = "family=Crimson+Text&family=Libre+Baskerville&family=Playfair+Display&family=Poppins&family=Source+Sans+Pro"
 
-heading_font = "Playfair Display"
-body_font = "Source Sans Pro"
-nav_font = "Source Sans Pro"
-mono_font = "Source Sans Pro"
+heading_font = "Libre Baskerville"
+nav_font = "Poppins"
+body_font = "Poppins"
+mono_font = "Poppins"

@@ -12,6 +12,8 @@ role: Assistant Professor
 organizations:
   - name: Shanghai Jiao Tong University
     url: ''
+  - name: 'yujun.xie@sjtu.edu.cn'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: A Short bio (displayed in user profile at end of posts)
@@ -62,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yujun.xie@sjtu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -73,4 +75,6 @@ user_groups:
   - Researchers
 ---
 
-A description of the professor.
+<p style="font-size: 17px;">博士后，美国加州大学伯克利分校核工程系& 美国劳伦斯伯克利国家实验室国家电子显微镜中心 <br>
+助理教授，上海交通大学溥渊未来技术学院 <br>
+办公地址 ：上海交通大学溥渊未来技术学院</p>
