@@ -32,6 +32,7 @@
   <div class="image-body col-md-4">
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
+            {{ $image := .Resize "550x webp" }}
             <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
             <img src="{{ $image.RelPermalink }}" height="400" width="{{ $image.Width }}"
                 alt="{{ $item.Title }}" loading="lazy">
