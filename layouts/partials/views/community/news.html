@@ -29,17 +29,15 @@
 {{ end }}
 
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;">
-  <div class="image-body col-md-6">
-    <div class="image">
+  <div class="image-body col-md-4">
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
-            {{ $image := .Resize "350x webp" }}
+            {{ $image := .Resize "400x webp" }}
             <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
             <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
                 alt="{{ $item.Title }}" loading="lazy">
             </a>
         {{end}}
-    </div>
   </div>
 
   <div class="xxx" style="margin-left: 20px;">
