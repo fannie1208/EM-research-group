@@ -1,6 +1,6 @@
 ---
 # Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.
-widget: 'github.marcelo-caetano.pager'
+
 
 # This file represents a page section.
 headless: true
