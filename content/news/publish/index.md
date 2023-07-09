@@ -9,7 +9,7 @@ abstract: The relevant research work was published in the top international jour
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-04-27'
-Date: 'Apr 27, 2023'
+eventDate: 'Apr 27, 2023'
 
 
 
