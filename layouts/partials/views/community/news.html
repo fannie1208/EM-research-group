@@ -49,12 +49,12 @@
     </div>
 
     <div class="section-subheading article-title mb-0 mt-0" style="font-size: 1rem; margin-top: 20px;">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;">{{ $item.Title }}</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;line-height: 1;">{{ $item.Title }}</a>
     </div>
 
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
+      <div class="article-style" style="line-height: 0.8;">
         {{.}}
       </div>
     </a>
