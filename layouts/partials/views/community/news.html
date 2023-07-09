@@ -30,7 +30,7 @@
 {{ end }}
 
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;">
-  <div class="image-body col-md-4" style="overflow: hidden;">
+  <div class="image-body col-md-4" style="height: 200px;overflow: hidden;">
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
             {{ $image := . }}
