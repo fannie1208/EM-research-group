@@ -35,7 +35,7 @@
         {{ with $resource }}
             {{ $image := . }}
             <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-            <img src="{{ $image.RelPermalink }}" height="400" width="{{ $image.Width }}"
+            <img src="{{ $image.RelPermalink }}" height="auto" width="100%"
                 alt="{{ $item.Title }}" loading="lazy">
             </a>
         {{end}}
@@ -46,7 +46,7 @@
         <span style="font-size: 0.8rem;">{{ $item.Params.eventDate }}</span>
     </div>
 
-    <div class="mb-0 mt-0" style="font-size:1.2rem; margin-top: 10px;">
+    <div class="section-subheading article-title mb-0 mt-0" style="font-size: 1.2rem; margin-top: 20px;">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
