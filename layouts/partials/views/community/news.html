@@ -29,8 +29,8 @@
 {{ end }}
 
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;">
-  <div class="image-body">
-    <div class="col-md-6">
+  <div class="image-body col-md-6">
+    <div class="image">
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
             {{ $image := .Resize "350x webp" }}
