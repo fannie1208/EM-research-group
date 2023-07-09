@@ -5,8 +5,8 @@
 
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
-{{ if $item.Params.event_link }}
-  {{ $link = $item.Params.event_link }}
+{{ if $item.Params.event_url }}
+  {{ $link = $item.Params.event_url }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 {{ if eq $item.Type "event" }}
@@ -43,7 +43,7 @@
 
   <div class="xxx" style="margin-left: 20px;">
     <div class="mb-0 mt-0">
-        <span style="font-size: 0.5rem;">{{ $item.Params.eventDate }}</span>
+        <span style="font-size: 1rem;">{{ $item.Params.eventDate }}</span>
     </div>
 
     <div class="section-subheading article-title mb-0 mt-0" style="margin-top: 10px;">
