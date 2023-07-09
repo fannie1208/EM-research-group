@@ -1,5 +1,5 @@
 ---
-title: Yujun Xie published a work in the top international journal Science Advances
+title: Yujun Xie published a work in Science Advances
 
 event: Wowchemy Conference
 event_url: https://mp.weixin.qq.com/s/evizHwYabWtCc9urTck_6w
