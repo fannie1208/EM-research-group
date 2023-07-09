@@ -34,10 +34,8 @@
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
             {{ $image := . }}
-            <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-            <img src="{{ $image.RelPermalink }}" height="auto" width="100%"
+            <img src="{{ $image.RelPermalink }}" height="auto" style="min-width: 100%;"
                 alt="{{ $item.Title }}" loading="lazy">
-            </a>
         {{end}}
   </div>
 
