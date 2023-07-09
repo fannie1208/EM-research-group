@@ -30,11 +30,11 @@
 {{ end }}
 
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;">
-  <div class="image-body col-md-4">
+  <div class="image-body col-md-4" style="overflow: hidden;">
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
             {{ $image := . }}
-            <img src="{{ $image.RelPermalink }}" height="auto" style="min-width: 100%;"
+            <img src="{{ $image.RelPermalink }}" style="min-width: 100%;height: 100%;object-fit: cover;"
                 alt="{{ $item.Title }}" loading="lazy">
         {{end}}
   </div>
