@@ -30,7 +30,7 @@
 {{ end }}
 
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;border-radius: 1.5rem;box-shadow: 0 0 10px #ccc; background-color: rgb(249, 249, 249);">
-    <div style="width:95%;margin-left: 20px;padding:10px;margin-top: 20px;">
+    <div style="width:95%;margin-left: 20px;padding:10px;margin-top: 30px;">
       <div class="row">
         <div class="image-body col-md-4" style="margin-top:10px;overflow: hidden;height: 180px;">
           {{ $resource := partial "functions/get_featured_image.html" $item }}
@@ -47,10 +47,6 @@
   
           <div class="section-subheading article-title" style="font-size: 1rem; margin-top: 20px;">
             <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;line-height: 1;">{{ $item.Title }}</a>
-          </div>
-  
-          <div style="height: 4px;">
-            <br>
           </div>
 
           {{ if $item.Params.authorlist }}
