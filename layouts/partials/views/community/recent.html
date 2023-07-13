@@ -59,12 +59,10 @@
             </div>
           {{ end }}
 
-          {{ with $summary }}
-          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+          {{ if $item.Params.publication }}
             <div class="article-style" style="line-height: 1.1;">
-              {{.}}
+                <strong>{{ $item.Params.publication }}</strong>
             </div>
-          </a>
           {{ end }}
   
           {{ if $has_attachments }}
