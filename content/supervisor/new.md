@@ -53,10 +53,10 @@ PRINCIPAL INVESTIGATOR</span></div>
         </span>
       </p>
     </div>
-    <div class="col-md-4">
+    <div class="col-md">
       <!-- 图像 -->
       <div data-testid="linkElement" class="j7pOnl">
-        {{< figure src="avatar.jpg" width="311px" >}}
+        {{< figure src="avatar.jpg">}}
       </div>
     </div>
   </div>
