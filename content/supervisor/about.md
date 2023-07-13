@@ -9,14 +9,27 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
+content:
+  archive:
+    enable: false
+    text: See all
+    link: publications/
+
 design:
   columns: '1'
+  css_style: |
+    @media (max-width: 768px) {
+      .custom-div {
+        width: 100%;
+      }
+    }
+  css_class:
 ---
 
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;color:#1D67CD;font-weight:bold;letter-spacing:normal;">
 PRINCIPAL INVESTIGATOR</span></div>
 
-<div style="width:75%;margin-left: auto; margin-right: auto;">
+<div class="custom-div" style="width:75%;margin-left: auto; margin-right: auto;">
   <div class="row">
     <div class="col-md-6" style="text-align:center;">
       <!-- 文字介绍 -->
