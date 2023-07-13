@@ -32,7 +32,7 @@
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;border-radius: 1.5rem;box-shadow: 0 0 10px #ccc; background-color: rgb(249, 249, 249);">
     <div style="width:95%;margin-left: 20px;padding:10px;margin-top: 20px;">
       <div class="row">
-        <div class="image-body col-md-4" style="overflow: hidden;">
+        <div class="image-body col-md-4" style="overflow: hidden;height: 180px;">
           {{ $resource := partial "functions/get_featured_image.html" $item }}
           {{ with $resource }}
           {{ $image := . }}
@@ -71,7 +71,6 @@
           </div>
           {{ end }}
 
-          <br>
         </div>
       </div>
     </div>
