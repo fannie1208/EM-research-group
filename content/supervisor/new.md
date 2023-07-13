@@ -11,8 +11,10 @@ PRINCIPAL INVESTIGATOR</span></div>
 
 <div style="width:60%">
   <div class="col-md-6" style="text-align:center;">
-    <span style="color:#000000;font-size:30px;letter-spacing:normal;font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;">
+    <h6><span style="color:#000000;font-size:30px;letter-spacing:normal;font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;">
     Yujun Xie</span></h6>
+
+
   </div>
 
   <div class="col-md-s">
