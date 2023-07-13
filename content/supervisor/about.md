@@ -9,7 +9,7 @@ weight: 10 # Position of section on page
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" ><span style="color:#1D67CD;" ><span style="font-size:30px;" ><span style="font-weight:bold;" ><span style="letter-spacing:normal;" >
       PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
 
-
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
 
 <div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" style="float:right;"><div data-testid="linkElement" class="j7pOnl">
 {{< figure src="avatar.jpg" width="311px" >}}
@@ -39,6 +39,8 @@ yujun.xie@sjtu.edu</a></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
 
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
+
 <div id="comp-lfq71qpv" class="comp-lfq71qpv SPY_vo"><div data-mesh-id="comp-lfq71qpvinlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-lfq71qpvinlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-lbg5xpdw" class="KcpHeO tz5f0K comp-lbg5xpdw wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
 EDUCATION</span></span></span></span></h2></div>
 
@@ -47,7 +49,7 @@ EDUCATION</span></span></span></span></h2></div>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
 Drexel University</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
- | Philadelphia, PA</span></span></span></p>
+Philadelphia, PA</span></span></span>
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 B.Sc. Materials Science and Engineering</span></span></span></p>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
@@ -55,9 +57,9 @@ B.Sc. Materials Science and Engineering</span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 Yale University</span></span></span>​ &nbsp;|&nbsp; &nbsp;<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
- | New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__text">
+New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__text">
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Ph.D. Mechanical Engineering</span></span></span></p>
+Ph.D. Mechanical Engineering</span></span></span>
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 (Advisor: Judy Cha and Jan Schroers)</span></span></span></p>
 
