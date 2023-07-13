@@ -24,14 +24,12 @@ Shanghai Jiao Tong University</span></span></span></span></p>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="color:#324158;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
-Office: Room 813, Building 302</span></span></span></p>
+19921039488</span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-E-mail: jungwon</span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:park@snu.ac.kr" class="wixui-rich-text__text">
-park@snu.ac.kr</a></span></span></span></p>
+E-mail: </span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu" class="wixui-rich-text__text">
+yujun.xie@sjtu.edu</a></span></span></span></p>
 
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a data-auto-recognition="true" href="mailto:jungwon.j.park@gmail.com" class="wixui-rich-text__text">
-jungwon.j.park@gmail.com</a></span><span style="font-size:16px;" class="wixui-rich-text__text"> </span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p>
 
