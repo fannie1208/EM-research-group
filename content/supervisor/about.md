@@ -129,7 +129,8 @@ PRINCIPAL INVESTIGATOR</span></div>
 
   <div id="comp-lfq71qpv">
     <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
-    Awards</span></span></span></span></h2></div>
+    AWARDS</span></span></span></span></h2></div>
+    <span style="letter-spacing:normal;font-size:16px;font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
     <ul>
     <li>National Science Fund for Excellent Young Scholars (Oversea),2022</li>
     <li>Leading talents in Shanghai,2022</li>
@@ -146,5 +147,6 @@ PRINCIPAL INVESTIGATOR</span></div>
     <li>Drexel Research Co-op Program Fellowship, Drexel University,2013</li>
     <li>Students Tracking Advanced Research (STAR) Fellowship, Drexel University,2009-2010</li>
     </ul>
+    </span>
   </div>
 </div>
