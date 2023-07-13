@@ -16,7 +16,7 @@ design:
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;color:#1D67CD;font-weight:bold;letter-spacing:normal;">
 PRINCIPAL INVESTIGATOR</span></div>
 
-<div style="width:80%;margin-left: auto; margin-right: auto;">
+<div style="width:75%;margin-left: auto; margin-right: auto;">
   <div class="row">
     <div class="col-md-6" style="text-align:center;">
       <!-- 文字介绍 -->
@@ -137,7 +137,7 @@ PRINCIPAL INVESTIGATOR</span></div>
   <div id="comp-lfq71qpv">
     <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
     AWARDS</span></span></span></span></h2></div>
-    <span style="letter-spacing:normal;font-size:16px;font-family:arial,ms pgothic,dotum,helvetica,sans-serif;font-height:1.1rem;">
+    <span style="letter-spacing:normal;font-size:16px;font-family:arial,ms pgothic,dotum,helvetica,sans-serif;line-height:normal;">
     <ul>
     <li>National Science Fund for Excellent Young Scholars (Oversea),2022</li>
     <li>Leading talents in Shanghai,2022</li>
