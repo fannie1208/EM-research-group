@@ -46,15 +46,18 @@ EDUCATION</span></span></span></span></h2></div>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
-B.Sc. Materials Science and Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Drexel University | Philadelphia, PA</span></span></span></p>
-
+Drexel University</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+ | Philadelphia, PA</span></span></span></p>
+<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+B.Sc. Materials Science and Engineering</span></span></span></p>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 2009-2014</span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Ph.D. Mechanical Engineering</span></span></span>​ &nbsp;|&nbsp; &nbsp;<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Yale University | New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__text">
+Yale University</span></span></span>​ &nbsp;|&nbsp; &nbsp;<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+ | New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__text">
+<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+Ph.D. Mechanical Engineering</span></span></span></p>
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 (Advisor: Judy Cha and Jan Schroers)</span></span></span></p>
 
@@ -64,8 +67,12 @@ Yale University | New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__t
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
-B.Sc. Materials Science and Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Drexel University | Philadelphia, PA</span></span></span></p>
+Drexel University
+</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+ | Philadelphia, PA</span></span></span></p>
+
+<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+B.Sc. Materials Science and Engineering</span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 2009-2014</span></span></span></p>
