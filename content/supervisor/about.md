@@ -16,7 +16,7 @@ design:
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;color:#1D67CD;font-weight:bold;letter-spacing:normal;">
 PRINCIPAL INVESTIGATOR</span></div>
 
-<div style="width:80%">
+<div style="width:80%;margin-left: auto; margin-right: auto;">
   <div class="row">
     <div class="col-md-6" style="text-align:center;">
       <!-- 文字介绍 -->
