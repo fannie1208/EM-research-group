@@ -9,7 +9,7 @@ weight: 10 # Position of section on page
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" ><span style="color:#1D67CD;" ><span style="font-size:30px;" ><span style="font-weight:bold;" ><span style="letter-spacing:normal;" >
       PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
 
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
+<h1></h1>
 
 <div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" style="float:right;"><div data-testid="linkElement" class="j7pOnl">
 {{< figure src="avatar.jpg" width="311px" >}}
