@@ -12,7 +12,9 @@ weight: 10 # Position of section on page
 <div class="container">
 </div>
 
-<div class="col-">
+<div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" style="float:right;"><div data-testid="linkElement" class="j7pOnl">
+{{< figure src="avatar.jpg" width="311px" >}}
+</div></div>
 
 <div id="comp-lbg5xpdq" class="KcpHeO tz5f0K comp-lbg5xpdq wixui-rich-text" data-testid="richTextElement"><h6 class="font_6 wixui-rich-text__text" style="font-size:30px; line-height:1.4em;"><span style="color:#000000;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;" class="wixui-rich-text__text">
       Yujun Xie
@@ -41,9 +43,7 @@ yujun.xie@sjtu.edu</a></span></span></span></p>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
-<div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" style="float:right;"><div data-testid="linkElement" class="j7pOnl">
-{{< figure src="avatar.jpg" width="311px" >}}
-</div></div>
+
 <div id="comp-lfq71qpv" class="comp-lfq71qpv SPY_vo"><div data-mesh-id="comp-lfq71qpvinlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-lfq71qpvinlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-lbg5xpdw" class="KcpHeO tz5f0K comp-lbg5xpdw wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
 EDUCATION</span></span></span></span></h2></div>
 
