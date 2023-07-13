@@ -9,11 +9,11 @@ weight: 20 # Order that this section will appear.
 title: Recent Publication
 
 content:
-  count: 5
+  count: 1
   # Filter on criteria
   filters:
     folders:
-      - news
+      - publication
     author: ""
     category: ""
     tag: ""
