@@ -5,8 +5,8 @@
 
 widget: pages # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 30 # Order that this section will appear.
-title: NEWS & EVENTS
+weight: 20 # Order that this section will appear.
+title: Recent Publication
 
 content:
   count: 5
