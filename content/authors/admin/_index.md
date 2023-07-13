@@ -73,6 +73,13 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
 
 <p style="font-size: 17px;">博士后，美国加州大学伯克利分校核工程系& 美国劳伦斯伯克利国家实验室国家电子显微镜中心 <br>
