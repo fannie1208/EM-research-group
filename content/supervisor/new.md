@@ -126,4 +126,25 @@ PRINCIPAL INVESTIGATOR</span></div>
     2023-Present</span></span>
     </div>
   </div>
+
+  <div id="comp-lfq71qpv">
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    Awards</span></span></span></span></h2></div>
+    <ul>
+    <li>National Science Fund for Excellent Young Scholars (Oversea),2022</li>
+    <li>Leading talents in Shanghai,2022</li>
+    <li>Graduate Student Award Gold, Materials Research Society,2020</li>
+    <li>Chinese Government Award for Outstanding Self-Financed Students Abroad,2018</li>
+    <li>Henry L. Rowland Graduate Fellowship, Yale University,2017</li>
+    <li>Ludo Frevel Crystallography Scholarship, International Centre for Diffraction Data,2017</li>
+    <li>Graduate Student Assemble Conference Travel Fellowship, Yale, 2017</li>
+    <li>Robert E. Apfel Graduate Fellowship, Yale University,2014</li>
+    <li>Outstanding Student Award (best graduate in STEM of the year), Drexel University,2014</li>
+    <li>Dean’s list, Drexel University, 2009-2014</li>
+    <li>A.J. Drexel Deans Scholarship,2009-2014</li>
+    <li>Drexel U Endowed Scholarship, Drexel University,2009-2014</li>
+    <li>Drexel Research Co-op Program Fellowship, Drexel University,2013</li>
+    <li>Students Tracking Advanced Research (STAR) Fellowship, Drexel University,2009-2010</li>
+    </ul>
+  </div>
 </div>
