@@ -65,47 +65,65 @@ PRINCIPAL INVESTIGATOR</span></div>
   <br>
 
   <div id="comp-lfq71qpv">
-      <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
-      EDUCATION</span></span></span></span></h2></div>
-      <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
-        <p style="font-size:16px; line-height:normal;">
-        <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
-          <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
-          <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">University of California, Berkeley, CA</span></span>
-        </span><br>
-        <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
-          <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
-          <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">Lawrence Berkeley National Laboratory, Berkeley, CA</span></span>
-        </span><br>
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    EDUCATION</span></span></span></span></h2></div>
+    <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
+        <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">University of California, Berkeley, CA</span></span>
+    </span><br>
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
+        <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">Lawrence Berkeley National Laboratory, Berkeley, CA</span></span>
+    </span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+        Advisor: Peter Hosemann and Peter Ercius </span></span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    2019-Present</span></span>
+    </p>
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
+        Ph.D. Mechanical Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+        Yale University, New Haven, CT</span></span>
+    </span><br>
         <span style="letter-spacing:normal;"><span style="font-size:16px;">
-          Advisor: Peter Hosemann and Peter Ercius </span></span><br>
+        Advisor: Judy Cha and Jan Schroers </span></span><br>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+        2014-2019</span></span>
+    </p>
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" >
+        <span style="letter-spacing:normal;" ><span style="font-size:16px;" ><span style="font-weight:bold">
+        B.Sc. Materials Science and Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
         <span style="letter-spacing:normal;"><span style="font-size:16px;">
-        2019-Present</span></span>
-        </p>
-        <p style="font-size:16px; line-height:normal;">
-        <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
-          <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
-          Ph.D. Mechanical Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
-          <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-          Yale University, New Haven, CT</span></span>
-        </span><br>
-          <span style="letter-spacing:normal;"><span style="font-size:16px;">
-          Advisor: Judy Cha and Jan Schroers </span></span><br>
-          <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-          2014-2019</span></span>
-        </p>
-        <p style="font-size:16px; line-height:normal;">
-        <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" >
-          <span style="letter-spacing:normal;" ><span style="font-size:16px;" ><span style="font-weight:bold">
-          B.Sc. Materials Science and Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
-          <span style="letter-spacing:normal;"><span style="font-size:16px;">
-          Drexel University, Philadelphia, PA</span></span>
-        </span><br>
+        Drexel University, Philadelphia, PA</span></span>
+    </span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    full-tuition scholarships, magna cum laude</span></span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    2009-2014</span></span>
+    </p>
+    </div>
+  </div>
+
+  <div id="comp-lfq71qpv">
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    CAREER</span></span></span></span></h2></div>
+    <div>
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" >
+        <span style="letter-spacing:normal;" ><span style="font-size:16px;" ><span style="font-weight:bold">
+        Assistant Professor</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
         <span style="letter-spacing:normal;"><span style="font-size:16px;">
-        full-tuition scholarships, magna cum laude</span></span><br>
-        <span style="letter-spacing:normal;"><span style="font-size:16px;">
-        2009-2014</span></span>
-        </p>
-      </div>
+        Shanghai Jiao Tong University</span></span>
+    </span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    Global Institute of Future Technology</span></span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    2023-Present</span></span>
+    </div>
   </div>
 </div>
