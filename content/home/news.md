@@ -6,7 +6,7 @@
 widget: pages # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
-title: <span style="font-size:35px">NEWS & EVENTS</span
+title: <span style="font-size:35px">NEWS & EVENTS</span>
 
 content:
   count: 5
