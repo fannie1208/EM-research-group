@@ -11,7 +11,7 @@ PRINCIPAL INVESTIGATOR</span></div>
 
 <div style="width:60%">
   <div class="row">
-    <div class="col-md-6" style="text-align:center;">
+    <div class="col-md-8" style="text-align:center;">
       <!-- 文字介绍 -->
       <h6><span style="color:#000000;font-size:30px;letter-spacing:normal;font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;">
         Yujun Xie</span></h6>
