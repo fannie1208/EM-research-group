@@ -29,6 +29,11 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{ $authors := ""}}
+{{ if $item.Params.authors }}
+    {{ $authors = $item.Params.authors | markdownify | emojify }}
+{{ end }}
+
 <div class="media stream-item view-compact" style="width: 80%; margin-left: auto; margin-right: auto;border-radius: 1.7rem;box-shadow: 0 0 10px #ccc;border: 1px solid black;">
     <div style="width:95%;margin-left: 10px;">
       <div class="row">
@@ -52,7 +57,14 @@
           <div style="height: 4px;">
             <br>
           </div>
-  
+
+          {{ if $authors }}
+          {{ with $authors }}
+          <div class="article-style" style="line-height: 1;">
+            {{.}}
+          </div>
+          {{ end }}
+
           {{ with $summary }}
           <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
             <div class="article-style" style="line-height: 1.1;">
