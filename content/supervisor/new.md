@@ -9,7 +9,7 @@ weight: 20 # Position of section on page
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;color:#1D67CD;font-weight:bold;letter-spacing:normal;">
 PRINCIPAL INVESTIGATOR</span></div>
 
-<div style="width:60%">
+<div style="width:100%">
   <div class="row">
     <div class="col-md-8" style="text-align:center;">
       <!-- 文字介绍 -->
@@ -53,7 +53,7 @@ PRINCIPAL INVESTIGATOR</span></div>
         </span>
       </p>
     </div>
-    <div class="col-md">
+    <div class="col-md-4">
       <!-- 图像 -->
       <div data-testid="linkElement" class="j7pOnl">
         {{< figure src="avatar.jpg">}}
