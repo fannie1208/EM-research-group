@@ -6,15 +6,6 @@ headless: true  # This file represents a page section.
 weight: 10 # Position of section on page
 ---
 
-<main id="PAGES_CONTAINER" class="PAGES_CONTAINER" tabindex="-1" data-main-content="true">
-<div id="SITE_PAGES" data-page-transition="CrossFade" class="JshATs SITE_PAGES">
-<div id="SITE_PAGES_TRANSITION_GROUP" class="fcNEqv">
-<div id="p61y7" class="dBAkHi p61y7">
-<div class="HT5ybB">
-<div id="Containerp61y7" class="Containerp61y7 SPY_vo">
-<div data-mesh-id="Containerp61y7inlineContent" data-testid="inline-content" class="">
-<div data-mesh-id="Containerp61y7inlineContent-gridContainer" data-testid="mesh-container-content">
-
 <div id="comp-lc9gdjax" class="KcpHeO tz5f0K comp-lc9gdjax wixui-rich-text" data-testid="richTextElement"><h1 class="font_0 wixui-rich-text__text" style="font-size:30px; line-height:1.4em; text-align:center"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" class="wixui-rich-text__text"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
       PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
 
@@ -85,4 +76,4 @@ Editorial Advisory Board Member
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-style:italic;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">iScience,&nbsp;</span></span></span></span><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">Cell Press</span></span></span></p>
 
-</div></div></div></div></div></div></div></div></div></div></div></main>
+</div></div></div></div>
