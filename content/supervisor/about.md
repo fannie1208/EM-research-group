@@ -6,93 +6,145 @@ headless: true  # This file represents a page section.
 weight: 10 # Position of section on page
 ---
 
-<div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" ><span style="color:#1D67CD;" ><span style="font-size:30px;" ><span style="font-weight:bold;" ><span style="letter-spacing:normal;" >
-      PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
+<div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;color:#1D67CD;font-weight:bold;letter-spacing:normal;">
+PRINCIPAL INVESTIGATOR</span></div>
 
-<div style="width:60%">
-
-  <div class="col-md-8" style="text-align:center;">
-      <div id="comp-lbg5xpdq" data-testid="richTextElement"><h6 style="font-size:30px; line-height:1.4em;">
-      <span style="color:#000000;" ><span style="font-size:30px;" ><span style="letter-spacing:normal" ><span style="font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;">
-      Yujun Xie</span></span></span></span></h6>
-      <h6  style="font-size:18px; line-height:1.3em;"><span style="color:#3899EC;"><span style="letter-spacing:normal;" ><span style="font-size:18px;" ><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-style:italic;" >
-      A</span></span></span>
-      <span style="font-size:18px;" ><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" ><span style="font-style:italic;">
-      sist</span></span></span>
-      <span style="font-size:18px;" ><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" ><span style="font-style:italic;" >ant P</span></span></span><span style="font-size:18px;" 
-      ><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-style:italic;" class="wixui-rich-text__text">rof</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">e</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">ss</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">or</span></span></span></span></span></h6>
-      <p  style="font-size:16px; line-height:1em;"><span style="color:#324158;" ><span style="font-size:16px;" ><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" ><span style="letter-spacing:normal;" >
-      Global Institute of Future Technology</span></span></span></span></p>
-      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;"><span style="color:#324158;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
-      Shanghai Jiao Tong University</span></span></span></span></p>
-      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
-      19921039488</span></span></span></p>
-      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-      E-mail: </span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu" class="wixui-rich-text__text">
-      yujun.xie@sjtu.edu</a></span></span></span></p></div>
-      </div>
-  </div>
-  <div id="comp-lbg5xpds" class="col-md-4 MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg">
+<div style="width:100%">
+  <div class="row">
+    <div class="col-md-6" style="text-align:center;">
+      <!-- 文字介绍 -->
+      <h6><span style="color:#000000;font-size:30px;letter-spacing:normal;font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;">
+        Yujun Xie</span></h6>
+      <h6 style="font-size:18px; line-height:1.3em;">
+        <span style="color:#3899EC;letter-spacing:normal;font-size:18px;font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;font-style:italic;">
+        Assistant Professor</span>
+      </h6>
+      <p style="font-size:16px; line-height:1em;">
+        <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;letter-spacing:normal;font-size:16px;color:#324158;">
+        Global Institute of Future Technology</span>
+      </p>
+      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;">
+        <span style="color:#324158;" class="wixui-rich-text__text">
+          <span style="font-size:16px;" class="wixui-rich-text__text">
+            <span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text">
+              <span style="letter-spacing:normal;" class="wixui-rich-text__text">
+                Shanghai Jiao Tong University</span>
+            </span>
+          </span>
+        </span>
+      </p>
+      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;">
+        <span style="font-size:16px;" class="wixui-rich-text__text">
+          <span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text">
+            <span style="letter-spacing:normal;" class="wixui-rich-text__text">
+              Telephone: 19921039488</span>
+          </span>
+        </span>
+      </p>
+      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;">
+        <span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;">
+          <span style="letter-spacing:normal;">
+            <span style="font-size:16px;">E-mail: </span>
+            <span style="font-size:16px;">
+              <a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu">
+                yujun.xie@sjtu.edu</a>
+            </span>
+          </span>
+        </span>
+      </p>
+    </div>
+    <div class="col-md-6" style="text-align:center;">
+      <!-- 图像 -->
       <div data-testid="linkElement" class="j7pOnl">
-      {{< figure src="avatar.jpg" width="311px" >}}
+        {{< figure src="avatar.jpg" width="320">}}
       </div>
+    </div>
   </div>
 
-  <p style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;"><span style="letter-spacing:normal;"><span style="font-size:16px;"><span>​</span></span></span></span></p>
-
-  <p style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" ><span style="letter-spacing:normal;"><span style="font-size:16px;"><span>​</span></span></span></span></p>
+  <br>
+  <br>
 
   <div id="comp-lfq71qpv">
-      <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
-      EDUCATION</span></span></span></span></h2></div>
-      <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
-      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    EDUCATION</span></span></span></span></h2></div>
+    <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
+        <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">University of California, Berkeley, CA</span></span>
+    </span><br>
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
+        <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">Lawrence Berkeley National Laboratory, Berkeley, CA</span></span>
+    </span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+        Advisor: Peter Hosemann and Peter Ercius </span></span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    2019-Present</span></span>
+    </p>
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
+        Ph.D. Mechanical Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+        Yale University, New Haven, CT</span></span>
+    </span><br>
+        <span style="letter-spacing:normal;"><span style="font-size:16px;">
+        Advisor: Judy Cha and Jan Schroers </span></span><br>
+        <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+        2014-2019</span></span>
+    </p>
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" >
+        <span style="letter-spacing:normal;" ><span style="font-size:16px;" ><span style="font-weight:bold">
+        B.Sc. Materials Science and Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;"><span style="font-size:16px;">
+        Drexel University, Philadelphia, PA</span></span>
+    </span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    full-tuition scholarships, magna cum laude</span></span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    2009-2014</span></span>
+    </p>
+    </div>
+  </div>
 
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
-Drexel University</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Philadelphia, PA</span></span></span><br class="wixui-rich-text__text">
-<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-B.Sc. Materials Science and Engineering</span></span></span></p>
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-2009-2014</span></span></span></p>
+  <div id="comp-lfq71qpv">
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    CAREER</span></span></span></span></h2></div>
+    <div>
+    <p style="font-size:16px; line-height:normal;">
+    <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" >
+        <span style="letter-spacing:normal;" ><span style="font-size:16px;" ><span style="font-weight:bold">
+        Assistant Professor</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;"><span style="font-size:16px;">
+        Shanghai Jiao Tong University</span></span>
+    </span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    Global Institute of Future Technology</span></span><br>
+    <span style="letter-spacing:normal;"><span style="font-size:16px;">
+    2023-Present</span></span>
+    </div>
+  </div>
 
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Yale University</span></span></span>​ &nbsp;|&nbsp; &nbsp;<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__text">
-<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Ph.D. Mechanical Engineering</span></span></span><br class="wixui-rich-text__text">
-<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-(Advisor: Judy Cha and Jan Schroers)</span></span></span></p>
-
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-2014-2019</span></span></span></p>
-
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
-
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
-Drexel University
-</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Philadelphia, PA</span></span></span></p><br>
-
-<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-B.Sc. Materials Science and Engineering</span></span></span>
-
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-2009-2014</span></span></span></p>
-
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
-
-<div id="comp-lbg5xpdz" class="KcpHeO tz5f0K comp-lbg5xpdz wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
-CAREER</span></span></span></span></h2></div>
-
-<div id="comp-lbg5xpe1" class="KcpHeO tz5f0K comp-lbg5xpe1 wixui-rich-text" data-testid="richTextElement"><p class="font_8 wixui-rich-text__text" style="line-height:normal; font-size:15px;"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
-Editorial Advisory Board Member
-<span style="font-size:16px;" class="wixui-rich-text__text">&nbsp;</span><span style="font-size:16px;" class="wixui-rich-text__text">&nbsp;</span></span></span></span><span style="font-size:16px; font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
-(2023/01 - present)</span></span></p>
-
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-style:italic;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">iScience,&nbsp;</span></span></span></span><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">Cell Press</span></span></span></p>
-
-</div>
-</div>
-
+  <div id="comp-lfq71qpv">
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    Awards</span></span></span></span></h2></div>
+    <ul>
+    <li>National Science Fund for Excellent Young Scholars (Oversea),2022</li>
+    <li>Leading talents in Shanghai,2022</li>
+    <li>Graduate Student Award Gold, Materials Research Society,2020</li>
+    <li>Chinese Government Award for Outstanding Self-Financed Students Abroad,2018</li>
+    <li>Henry L. Rowland Graduate Fellowship, Yale University,2017</li>
+    <li>Ludo Frevel Crystallography Scholarship, International Centre for Diffraction Data,2017</li>
+    <li>Graduate Student Assemble Conference Travel Fellowship, Yale, 2017</li>
+    <li>Robert E. Apfel Graduate Fellowship, Yale University,2014</li>
+    <li>Outstanding Student Award (best graduate in STEM of the year), Drexel University,2014</li>
+    <li>Dean’s list, Drexel University, 2009-2014</li>
+    <li>A.J. Drexel Deans Scholarship,2009-2014</li>
+    <li>Drexel U Endowed Scholarship, Drexel University,2009-2014</li>
+    <li>Drexel Research Co-op Program Fellowship, Drexel University,2013</li>
+    <li>Students Tracking Advanced Research (STAR) Fellowship, Drexel University,2009-2010</li>
+    </ul>
+  </div>
 </div>
