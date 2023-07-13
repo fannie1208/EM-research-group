@@ -29,12 +29,12 @@ PRINCIPAL INVESTIGATOR</span></div>
     <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;">
       <span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
       Telephone: 19921039488</span></span></span></p>
-    <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-      E-mail: </span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu" class="wixui-rich-text__text">
+    <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" ><span style="letter-spacing:normal;" ><span style="font-size:16px;">
+      E-mail: </span><span style="font-size:16px;"><a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu">
       yujun.xie@sjtu.edu</a></span></span></span></p></div>
   </div>
 
-  <div class="col-md-3">
+  <div class="col-md-3" style="float:right;">
     <div data-testid="linkElement" class="j7pOnl">
       {{< figure src="avatar.jpg" width="311px" >}}
     </div>
