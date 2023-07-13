@@ -1,0 +1,105 @@
+{{ $item := .item }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
+
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.event_url }}
+  {{ $link = $item.Params.event_url }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+{{ if eq $item.Type "event" }}
+  {{ $show_authors_only = true }}
+{{ else if eq $item.Type "publication" }}
+  {{ $show_authors_only = true }}
+{{ else if eq $item.Type "project" }}
+  {{ $show_authors_only = true }}
+{{ end }}
+
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if $item.Params.abstract }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
+<div style="font-family: Arial,Helvetica,sans-serif;font-size: 10px;
+--alpha-brd: 1;
+--alpha-bg: 1;
+--color_15: 0,0,0;
+--color_11: 255,255,255;
+--container-corvid-border-color: rgba(var(--brd,var(--color_15)),var(--alpha-brd,1));
+--container-corvid-border-size: var(--brw,1px);
+--container-corvid-background-color: rgba(var(--bg,var(--color_11)),var(--alpha-bg,1));
+--brw: 1px;
+--brd: 50,65,88;
+--bg: 255,255,255;
+--rd: 0px;
+--shd: 0.00px 2.00px 5px 0px rgba(0,0,0,0.32);
+--alpha-brd: 1;
+--alpha-bg: 1;
+background: transparent;
+margin: 0;
+outline: 0;
+padding: 0;
+vertical-align: baseline;
+background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)));
+border: var(--container-corvid-border-width,var(--brw,1px)) solid var(--container-corvid-border-color,rgba(var(--brd,var(--color_15)),var(--alpha-brd,1)));
+border-radius: var(--rd,5px);
+bottom: 0;
+box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+left: 0;
+position: absolute;
+right: 0;
+top: 0;"></div>
+
+<div class="media stream-item view-compact" style="width: 75%; margin-left: auto; margin-right: auto;">
+  <div class="image-body col-md-4" style="height: 200px;overflow: hidden;">
+        {{ $resource := partial "functions/get_featured_image.html" $item }}
+        {{ with $resource }}
+            {{ $image := . }}
+            <img src="{{ $image.RelPermalink }}" style="min-width: 100%;height: 100%;object-fit: cover;"
+                alt="{{ $item.Title }}" loading="lazy">
+        {{end}}
+  </div>
+
+  <div class="content-body" style="margin-left: 20px;">
+    <div class="mb-0 mt-0" style="margin-bottom: 10px;">
+        <span style="font-size: 0.8rem;">{{ $item.Params.eventDate }}</span>
+    </div>
+
+    <div style="height: 10px;">
+        <br>
+    </div>
+
+    <div class="section-subheading article-title mb-0 mt-0" style="font-size: 1rem; margin-top: 20px;margin-bottom: 100px;">
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;line-height: 1.2;">{{ $item.Title }}</a>
+    </div>
+
+    <div style="height: 4px;">
+        <br>
+    </div>
+
+    {{ with $summary }}
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+      <div class="article-style" style="line-height: 1.1;">
+        {{.}}
+      </div>
+    </a>
+    {{ end }}
+
+
+    {{ if $has_attachments }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
+
+  </div>
+</div>
