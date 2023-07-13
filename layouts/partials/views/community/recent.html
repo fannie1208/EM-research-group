@@ -53,11 +53,11 @@
             <br>
           </div>
 
-          {{ if $item.Params.authors }}
-            <div>
-            {{ partial "page_metadata_authors" $item }}
+          {{ if $item.Params.authorlist }}
+            <div class="article-style" style="line-height: 1.1;">
+                {{ $item.Params.authorlist }}
             </div>
-            {{ end }}
+          {{ end }}
 
           {{ with $summary }}
           <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">

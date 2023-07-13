@@ -11,6 +11,7 @@ authors:
 date: '2018-04-02T00:00:00Z'
 doi: ''
 
+authorlist: 'Zhiwei Fang, Lele Peng, Yumin Qian, Xiao Zhang, Yujun Xie, Judy J Cha, Guihua Yu'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2018-04-02T00:00:00Z'
 
