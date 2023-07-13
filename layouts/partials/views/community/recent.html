@@ -29,10 +29,9 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact" style="width: 75%; margin-left: auto; margin-right: auto;">
-    <!-- <div style="font-family: Arial,Helvetica,sans-serif;font-size: 10px; --alpha-brd: 1; --alpha-bg: 1; --color_15: 0,0,0; --color_11: 255,255,255; --container-corvid-border-color: rgba(var(--brd,var(--color_15)),var(--alpha-brd,1)); --container-corvid-border-size: var(--brw,1px); --container-corvid-background-color: rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)); --brw: 1px; --brd: 50,65,88; --bg: 255,255,255; --rd: 0px; --shd: 0.00px 2.00px 5px 0px rgba(0,0,0,0.32); --alpha-brd: 1; --alpha-bg: 1; background: transparent; margin: 0; outline: 0; padding: 0; vertical-align: baseline; background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1))); border: var(--container-corvid-border-width,var(--brw,1px)) solid var(--container-corvid-border-color,rgba(var(--brd,var(--color_15)),var(--alpha-brd,1))); border-radius: var(--rd,5px); bottom: 0; box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6)); left: 0; position: absolute; right: 0; top: 0;"> -->
+<div class="media stream-item view-compact" style="width: 75%; margin-left: auto; margin-right: auto;border-radius: 1.7rem;box-shadow: 0 0 10px #ccc;border: 2px solid #5ac0f7;">
       <div class="row">
-        <div class="image-body col-md-4" style="height: 200px; overflow: hidden;">
+        <div class="image-body col-md-4" style="height: 180px; overflow: hidden;">
           {{ $resource := partial "functions/get_featured_image.html" $item }}
           {{ with $resource }}
           {{ $image := . }}
