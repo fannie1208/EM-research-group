@@ -9,11 +9,7 @@ weight: 10 # Position of section on page
 <div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" ><span style="color:#1D67CD;" ><span style="font-size:30px;" ><span style="font-weight:bold;" ><span style="letter-spacing:normal;" >
       PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
 
-<h1></h1>
-
-<div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" style="float:right;"><div data-testid="linkElement" class="j7pOnl">
-{{< figure src="avatar.jpg" width="311px" >}}
-</div></div>
+<div class="col-md-8">
 
 <div id="comp-lbg5xpdq" class="KcpHeO tz5f0K comp-lbg5xpdq wixui-rich-text" data-testid="richTextElement"><h6 class="font_6 wixui-rich-text__text" style="font-size:30px; line-height:1.4em;"><span style="color:#000000;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;" class="wixui-rich-text__text">
       Yujun Xie
@@ -34,8 +30,11 @@ Shanghai Jiao Tong University</span></span></span></span></p>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 E-mail: </span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu" class="wixui-rich-text__text">
 yujun.xie@sjtu.edu</a></span></span></span></p>
+</div>
 
-
+<div id="comp-lbg5xpds" class="col-md-4 MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" "><div data-testid="linkElement" class="j7pOnl">
+{{< figure src="avatar.jpg" width="311px" >}}
+</div></div>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
 
@@ -49,7 +48,7 @@ EDUCATION</span></span></span></span></h2></div>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
 Drexel University</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Philadelphia, PA</span></span></span>
+Philadelphia, PA</span></span></span><br class="wixui-rich-text__text">
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 B.Sc. Materials Science and Engineering</span></span></span></p>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
@@ -59,7 +58,7 @@ B.Sc. Materials Science and Engineering</span></span></span></p>
 Yale University</span></span></span>​ &nbsp;|&nbsp; &nbsp;<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 New Haven, CT&nbsp;</span></span><br class="wixui-rich-text__text">
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-Ph.D. Mechanical Engineering</span></span></span>
+Ph.D. Mechanical Engineering</span></span></span><br class="wixui-rich-text__text">
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 (Advisor: Judy Cha and Jan Schroers)</span></span></span></p>
 
@@ -71,10 +70,10 @@ Ph.D. Mechanical Engineering</span></span></span>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
 Drexel University
 </span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
- | Philadelphia, PA</span></span></span></p>
+Philadelphia, PA</span></span></span></p><br>
 
 <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
-B.Sc. Materials Science and Engineering</span></span></span></p>
+B.Sc. Materials Science and Engineering</span></span></span>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 2009-2014</span></span></span></p>
