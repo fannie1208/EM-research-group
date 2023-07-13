@@ -31,23 +31,22 @@ weight: 10 # Position of section on page
       E-mail: </span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:yujun.xie@sjtu.edu" class="wixui-rich-text__text">
       yujun.xie@sjtu.edu</a></span></span></span></p></div>
       </div>
-</div>
-<div id="comp-lbg5xpds" class="col-md-4 MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg">
+  </div>
+  <div id="comp-lbg5xpds" class="col-md-4 MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg">
       <div data-testid="linkElement" class="j7pOnl">
       {{< figure src="avatar.jpg" width="311px" >}}
       </div>
-</div>
+  </div>
 
-<p style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;"><span style="letter-spacing:normal;"><span style="font-size:16px;"><span>​</span></span></span></span></p>
+  <p style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;"><span style="letter-spacing:normal;"><span style="font-size:16px;"><span>​</span></span></span></span></p>
 
-<p style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" ><span style="letter-spacing:normal;"><span style="font-size:16px;"><span>​</span></span></span></span></p>
+  <p style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;" ><span style="letter-spacing:normal;"><span style="font-size:16px;"><span>​</span></span></span></span></p>
 
-<div id="comp-lfq71qpv">
+  <div id="comp-lfq71qpv">
       <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
       EDUCATION</span></span></span></span></h2></div>
-
-<div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
+      <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
+      <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
 Drexel University</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
@@ -81,14 +80,19 @@ B.Sc. Materials Science and Engineering</span></span></span>
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
 2009-2014</span></span></span></p>
 
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div><div id="comp-lbg5xpdz" class="KcpHeO tz5f0K comp-lbg5xpdz wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
-CAREER</span></span></span></span></h2></div><div id="comp-lbg5xpe1" class="KcpHeO tz5f0K comp-lbg5xpe1 wixui-rich-text" data-testid="richTextElement"><p class="font_8 wixui-rich-text__text" style="line-height:normal; font-size:15px;"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
+
+<div id="comp-lbg5xpdz" class="KcpHeO tz5f0K comp-lbg5xpdz wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+CAREER</span></span></span></span></h2></div>
+
+<div id="comp-lbg5xpe1" class="KcpHeO tz5f0K comp-lbg5xpe1 wixui-rich-text" data-testid="richTextElement"><p class="font_8 wixui-rich-text__text" style="line-height:normal; font-size:15px;"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
 Editorial Advisory Board Member
 <span style="font-size:16px;" class="wixui-rich-text__text">&nbsp;</span><span style="font-size:16px;" class="wixui-rich-text__text">&nbsp;</span></span></span></span><span style="font-size:16px; font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
 (2023/01 - present)</span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-style:italic;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">iScience,&nbsp;</span></span></span></span><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">Cell Press</span></span></span></p>
 
-</div></div></div></div>
+</div>
+</div>
 
 </div>
