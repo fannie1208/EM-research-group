@@ -44,12 +44,16 @@
         <span style="font-size: 0.8rem;">{{ $item.Params.eventDate }}</span>
     </div>
 
-    <div style="height: 15px;">
+    <div style="height: 10px;">
         <br>
     </div>
 
     <div class="section-subheading article-title mb-0 mt-0" style="font-size: 1rem; margin-top: 20px;margin-bottom: 100px;">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;line-height: 1.2;">{{ $item.Title }}</a>
+    </div>
+
+    <div style="height: 4px;">
+        <br>
     </div>
 
     {{ with $summary }}

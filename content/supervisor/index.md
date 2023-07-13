@@ -3,4 +3,86 @@ title: Supervisor
 
 # Files in this folder represent a Widget Page
 type: widget_page
+
+design:
+    css_style: |
+    .btn {
+      display: block;
+      margin: 0 auto;
+    }
+    .btn {
+      color: black !important;
+      background-color: white !important;
+      border-color: white !important;
+    }
 ---
+
+<main id="PAGES_CONTAINER" class="PAGES_CONTAINER" tabindex="-1" data-main-content="true">
+<div id="SITE_PAGES" data-page-transition="CrossFade" class="JshATs SITE_PAGES">
+<div id="SITE_PAGES_TRANSITION_GROUP" class="fcNEqv">
+<div id="p61y7" class="dBAkHi p61y7">
+<div class="HT5ybB">
+<div id="Containerp61y7" class="Containerp61y7 SPY_vo">
+<div data-mesh-id="Containerp61y7inlineContent" data-testid="inline-content" class="">
+<div data-mesh-id="Containerp61y7inlineContent-gridContainer" data-testid="mesh-container-content">
+
+<div id="comp-lc9gdjax" class="KcpHeO tz5f0K comp-lc9gdjax wixui-rich-text" data-testid="richTextElement"><h1 class="font_0 wixui-rich-text__text" style="font-size:30px; line-height:1.4em; text-align:center"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" class="wixui-rich-text__text"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+      PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
+
+<div id="comp-lbg5xpdq" class="KcpHeO tz5f0K comp-lbg5xpdq wixui-rich-text" data-testid="richTextElement"><h6 class="font_6 wixui-rich-text__text" style="font-size:30px; line-height:1.4em;"><span style="color:#000000;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;" class="wixui-rich-text__text">
+      Yujun Xie
+      </span></span></span></span></h6>
+
+<h6 class="font_6 wixui-rich-text__text" style="font-size:18px; line-height:1.4em;"><span style="color:#3899EC;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">A</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">sist</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">ant P</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">rof</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">e</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">ss</span></span></span><span style="font-size:18px;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;" class="wixui-rich-text__text"><span style="font-style:italic;" class="wixui-rich-text__text">or</span></span></span></span></span></h6>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="color:#324158;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+Global Institute of Future Technology</span></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="color:#324158;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+Shanghai Jiao Tong University</span></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="color:#324158;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+Office: Room 813, Building 302</span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+E-mail: jungwon</span><span style="font-size:16px;" class="wixui-rich-text__text"><a data-auto-recognition="true" href="mailto:park@snu.ac.kr" class="wixui-rich-text__text">
+park@snu.ac.kr</a></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a data-auto-recognition="true" href="mailto:jungwon.j.park@gmail.com" class="wixui-rich-text__text">
+jungwon.j.park@gmail.com</a></span><span style="font-size:16px;" class="wixui-rich-text__text"> </span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div><div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg"><div data-testid="linkElement" class="j7pOnl"><wow-image id="img_comp-lbg5xpds" class="HlRz5e BI8PVQ" data-image-info="{&quot;containerId&quot;:&quot;comp-lbg5xpds&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:311,&quot;targetHeight&quot;:396,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:3280,&quot;height&quot;:4928,&quot;uri&quot;:&quot;d1ae41_3979c43da53c4c128d40391dd4efc561~mv2.png&quot;,&quot;name&quot;:&quot;교수님 사진 2023 03.png&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;crop&quot;:{&quot;x&quot;:0,&quot;y&quot;:267,&quot;width&quot;:3280,&quot;height&quot;:4181,&quot;svgId&quot;:&quot;909695c1e003409ba70b5561666c7c4d.svg&quot;}}}" data-bg-effect-name="" data-has-ssr-src=""><img src="https://static.wixstatic.com/media/d1ae41_3979c43da53c4c128d40391dd4efc561~mv2.png/v1/crop/x_0,y_267,w_3280,h_4181/fill/w_311,h_396,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/%EA%B5%90%EC%88%98%EB%8B%98%20%EC%82%AC%EC%A7%84%202023%2003.png" alt="교수님 사진 2023 03.png" style="width:311px;height:396px;object-fit:cover" srcSet="https://static.wixstatic.com/media/d1ae41_3979c43da53c4c128d40391dd4efc561~mv2.png/v1/crop/x_0,y_267,w_3280,h_4181/fill/w_311,h_396,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/%EA%B5%90%EC%88%98%EB%8B%98%20%EC%82%AC%EC%A7%84%202023%2003.png 1x, https://static.wixstatic.com/media/d1ae41_3979c43da53c4c128d40391dd4efc561~mv2.png/v1/crop/x_0,y_267,w_3280,h_4181/fill/w_622,h_792,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/%EA%B5%90%EC%88%98%EB%8B%98%20%EC%82%AC%EC%A7%84%202023%2003.png 2x" fetchpriority="high"/></wow-image></div></div><div id="comp-lfq71qpv" class="comp-lfq71qpv SPY_vo"><div data-mesh-id="comp-lfq71qpvinlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-lfq71qpvinlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-lbg5xpdw" class="KcpHeO tz5f0K comp-lbg5xpdw wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+EDUCATION</span></span></span></span></h2></div>
+<div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement"><p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+Ph. D in Chemistry</span></span></span>​ &nbsp;|&nbsp; &nbsp;<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+University of California, Berkeley, CA&nbsp;</span></span><br class="wixui-rich-text__text">
+<span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+(Advisor: A. Paul Alivisatos)</span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+2006/08-2012/05</span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text">
+Bachelor of Chemistry</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+Pohang University of Science and Technology (POSTECH), Pohang, Korea</span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
+2000/03 - 2003/08</span></span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div><div id="comp-lbg5xpdz" class="KcpHeO tz5f0K comp-lbg5xpdz wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+CAREER</span></span></span></span></h2></div><div id="comp-lbg5xpe1" class="KcpHeO tz5f0K comp-lbg5xpe1 wixui-rich-text" data-testid="richTextElement"><p class="font_8 wixui-rich-text__text" style="line-height:normal; font-size:15px;"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+Editorial Advisory Board Member
+<span style="font-size:16px;" class="wixui-rich-text__text">&nbsp;</span><span style="font-size:16px;" class="wixui-rich-text__text">&nbsp;</span></span></span></span><span style="font-size:16px; font-family:arial, &quot;ｍｓ ｐゴシック&quot;, &quot;ms pgothic&quot;, 돋움, dotum, helvetica, sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+(2023/01 - present)</span></span></p>
+
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:normal;"><span style="font-style:italic;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">iScience,&nbsp;</span></span></span></span><span style="font-size:16px;" class="wixui-rich-text__text"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">Cell Press</span></span></span></p>
+
+</div></div></div></div></div></div></div></div></div></div></div>
