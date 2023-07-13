@@ -9,11 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-content:
-  archive:
-    enable: false
-    text: See all
-    link: publications/
+archive:
+  enable: false
+  text: See all
+  link: publications/
 
 design:
   columns: '1'
