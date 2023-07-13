@@ -6,8 +6,13 @@ headless: true  # This file represents a page section.
 weight: 10 # Position of section on page
 ---
 
-<div id="comp-lc9gdjax" class="KcpHeO tz5f0K comp-lc9gdjax wixui-rich-text" data-testid="richTextElement"><h1 class="font_0 wixui-rich-text__text" style="font-size:30px; line-height:1.4em; text-align:center"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" class="wixui-rich-text__text"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="font-weight:bold;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text">
+<div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;" ><span style="color:#1D67CD;" ><span style="font-size:30px;" ><span style="font-weight:bold;" ><span style="letter-spacing:normal;" >
       PRINCIPAL INVESTIGATOR</span></span></span></span></span></h1></div>
+
+<div class="container">
+</div>
+
+<div class="col-">
 
 <div id="comp-lbg5xpdq" class="KcpHeO tz5f0K comp-lbg5xpdq wixui-rich-text" data-testid="richTextElement"><h6 class="font_6 wixui-rich-text__text" style="font-size:30px; line-height:1.4em;"><span style="color:#000000;" class="wixui-rich-text__text"><span style="font-size:30px;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;" class="wixui-rich-text__text">
       Yujun Xie
@@ -35,9 +40,11 @@ yujun.xie@sjtu.edu</a></span></span></span></p>
 
 <p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p>
 
-<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em;"><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div><div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg"><div data-testid="linkElement" class="j7pOnl"><wow-image id="img_comp-lbg5xpds" class="HlRz5e BI8PVQ" data-image-info="{&quot;containerId&quot;:&quot;comp-lbg5xpds&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:311,&quot;targetHeight&quot;:396,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:3280,&quot;height&quot;:4928,&quot;uri&quot;:&quot;d1ae41_3979c43da53c4c128d40391dd4efc561~mv2.png&quot;,&quot;name&quot;:&quot;교수님 사진 2023 03.png&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;crop&quot;:{&quot;x&quot;:0,&quot;y&quot;:267,&quot;width&quot;:3280,&quot;height&quot;:4181,&quot;svgId&quot;:&quot;909695c1e003409ba70b5561666c7c4d.svg&quot;}}}" data-bg-effect-name="" data-has-ssr-src="">
+<p class="font_8 wixui-rich-text__text" style="font-size:16px; line-height:1.4em; "><span style="font-family:arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;" class="wixui-rich-text__text"><span style="letter-spacing:normal;" class="wixui-rich-text__text"><span class="inherit-font-size wixui-rich-text__text" style="font-size:16px;"><span class="wixGuard wixui-rich-text__text">​</span></span></span></span></p></div>
+<div id="comp-lbg5xpds" class="MazNVa comp-lbg5xpds wixui-image" title="unnamed.jpg" style="float:right;"><div data-testid="linkElement" class="j7pOnl">
 {{< figure src="avatar.jpg" width="311px" >}}
-</wow-image></div></div><div id="comp-lfq71qpv" class="comp-lfq71qpv SPY_vo"><div data-mesh-id="comp-lfq71qpvinlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-lfq71qpvinlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-lbg5xpdw" class="KcpHeO tz5f0K comp-lbg5xpdw wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+</div></div>
+<div id="comp-lfq71qpv" class="comp-lfq71qpv SPY_vo"><div data-mesh-id="comp-lfq71qpvinlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-lfq71qpvinlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-lbg5xpdw" class="KcpHeO tz5f0K comp-lbg5xpdw wixui-rich-text" data-testid="richTextElement"><h2 class="font_2 wixui-rich-text__text" style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" class="wixui-rich-text__text"><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
 EDUCATION</span></span></span></span></h2></div>
 
 <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
