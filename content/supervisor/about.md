@@ -84,15 +84,13 @@ PRINCIPAL INVESTIGATOR</span></div>
     <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
     <p style="font-size:16px; line-height:normal;">
     <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
-        <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
+        <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Fellow Nuclear Engineering</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
         <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">University of California, Berkeley, CA</span></span>
     </span><br>
     <span style="font-family:arial,ms pgothic,dotum,helvetica,sans-serif;">
         <span style="letter-spacing:normal;"><span style="font-size:16px;" ><span style="font-weight:bold;">Postdoctoral Associate</span>&nbsp; &nbsp;|&nbsp; &nbsp;</span></span>
         <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">Lawrence Berkeley National Laboratory, Berkeley, CA</span></span>
     </span><br>
-    <span style="letter-spacing:normal;"><span style="font-size:16px;">
-        Advisor: Peter Hosemann and Peter Ercius </span></span><br>
     <span style="letter-spacing:normal;"><span style="font-size:16px;">
     2019-Present</span></span>
     </p>
@@ -103,8 +101,6 @@ PRINCIPAL INVESTIGATOR</span></div>
         <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
         Yale University, New Haven, CT</span></span>
     </span><br>
-        <span style="letter-spacing:normal;"><span style="font-size:16px;">
-        Advisor: Judy Cha and Jan Schroers </span></span><br>
         <span style="letter-spacing:normal;" class="wixui-rich-text__text"><span style="font-size:16px;" class="wixui-rich-text__text">
         2014-2019</span></span>
     </p>
