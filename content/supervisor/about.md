@@ -20,7 +20,7 @@ design:
   css_class:
 ---
 
-<div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;color:#1D67CD;font-weight:bold;letter-spacing:normal;">
+<div data-testid="richTextElement"><h1 style="font-size:30px; line-height:1.4em; text-align:center;margin-bottom:20px;"><span style="font-family:avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;font-weight:bold;letter-spacing:normal;">
 PRINCIPAL INVESTIGATOR</span></div>
 
 <div class="custom-div" style="width:75%;margin-left: auto; margin-right: auto;">
@@ -30,7 +30,7 @@ PRINCIPAL INVESTIGATOR</span></div>
       <h6><span style="color:#000000;font-size:30px;letter-spacing:normal;font-family:helvetica-w01-bold,helvetica-w02-bold,helvetica-lt-w10-bold,sans-serif;">
         Yujun Xie</span></h6>
       <h6 style="font-size:18px; line-height:1.3em;">
-        <span style="color:#3899EC;letter-spacing:normal;font-size:18px;font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;font-style:italic;">
+        <span style="color:#000000;letter-spacing:normal;font-size:18px;font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;">
         Assistant Professor</span>
       </h6>
       <p style="font-size:16px; line-height:1em;">
@@ -79,7 +79,7 @@ PRINCIPAL INVESTIGATOR</span></div>
   <br>
 
   <div id="comp-lfq71qpv">
-    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#1D67CD;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
+    <div id="comp-lbg5xpdw" data-testid="richTextElement"><h2  style="font-size:20px; line-height:normal;"><span style="color:#000000;" ><span style="letter-spacing:0.2em;" class="wixui-rich-text__text"><span style="font-size:20px;" class="wixui-rich-text__text"><span style="font-family:avenir-lt-w01_85-heavy1475544,sans-serif;" class="wixui-rich-text__text">
     EDUCATION</span></span></span></span></h2></div>
     <div id="comp-lbg5xpdy" class="KcpHeO tz5f0K comp-lbg5xpdy wixui-rich-text" data-testid="richTextElement">
     <p style="font-size:16px; line-height:normal;">
@@ -155,10 +155,6 @@ PRINCIPAL INVESTIGATOR</span></div>
     <li>Graduate Student Assemble Conference Travel Fellowship, Yale, 2017</li>
     <li>Robert E. Apfel Graduate Fellowship, Yale University,2014</li>
     <li>Outstanding Student Award (best graduate in STEM of the year), Drexel University,2014</li>
-    <li>Dean’s list, Drexel University, 2009-2014</li>
-    <li>A.J. Drexel Deans Scholarship,2009-2014</li>
-    <li>Drexel U Endowed Scholarship, Drexel University,2009-2014</li>
-    <li>Drexel Research Co-op Program Fellowship, Drexel University,2013</li>
     <li>Students Tracking Advanced Research (STAR) Fellowship, Drexel University,2009-2010</li>
     </ul>
     </span>

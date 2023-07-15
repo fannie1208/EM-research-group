@@ -11,9 +11,6 @@ hero_media: ''
 cta:
   label: Learn More
   url: research
-cta_alt:
-  label: Meet Our Team
-  url: people
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -37,8 +34,6 @@ design:
     }
   css_class:
 ---
-<h1 style="height:60px; margin-top:40px;">Welcome,</h1>
-
 <div style="margin: 0 auto;">
 <font size="5">The <span style="color: #F8E0E0;">Electron Microscope and Extreme Matter (EM) Lab</span> aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</font>
 </div>
