@@ -42,13 +42,7 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {2023} Yujun Xie. This work is licensed under {license}'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+  
 
 # Localization
 
