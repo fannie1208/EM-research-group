@@ -35,6 +35,6 @@ design:
   css_class:
 ---
 <div style="margin: 0 auto;">
-<font size="5">The <span style="color: #F8E0E0;">Electron Microscope and Extreme Matter (EM) Lab</span> aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</font>
+<span style="font-size:1rem;">The <span style="color: #F8E0E0;">Electron Microscope and Extreme Matter (EM) Lab</span> aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</span>
 </div>
 <div style="height:20px;"></div>
