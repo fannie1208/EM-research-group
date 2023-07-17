@@ -12,6 +12,7 @@ authors:
 date: '2016-04-26T00:00:00Z'
 doi: ''
 
+authorlist: 'He Tian, Qiushi Guo, Yujun Xie, Huan Zhao, Cheng Li, Judy J. Cha, Fengnian Xia, Han Wang'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2016-04-26T00:00:00Z'
 

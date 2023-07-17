@@ -36,4 +36,4 @@ design:
 </div>
 <div style="height:20px;"></div>
 
-<a href="/research" class="btn btn-light btn-md">Learn More</a>
+<a href="/research" class="btn btn-light btn-md" style="color:#000000">Learn More</a>
