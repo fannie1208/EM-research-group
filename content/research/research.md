@@ -14,9 +14,13 @@ title: <span style="font-size:35px;">RESEARCH</span>
 design:
   columns: '1'
 ---
-
+<style>
+  p {
+    font-size: 1rem;
+  }
+</style>
 <div style="width: 90%; margin: 0 auto;">
-<p>We are interested in employing in situ TEM combined with advanced techniques, such as 4D-STEM to address fundamental questions concerning the dynamic and collective response of structural and function components under their real-world conditions.  </p>
+<p style="font-size:1rem;">We are interested in employing in situ TEM combined with advanced techniques, such as 4D-STEM to address fundamental questions concerning the dynamic and collective response of structural and function components under their real-world conditions.  </p>
 
 
 <h2 style="font-size:25px;">1.	Structural Materials for Fusion Reactors</h2>
