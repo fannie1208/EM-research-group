@@ -49,12 +49,12 @@
     {{ if $has_attachments }}
     <div class="btn-links">
         {{ $pdf := "" }}
-        {{ $resource := $page.Resources.GetMatch (printf "%s.pdf" $page.File.ContentBaseName) }}
+        {{ $resource := $item.Resources.GetMatch (printf "%s.pdf" $item.File.ContentBaseName) }}
         {{ with $resource }}
           {{ $pdf = .RelPermalink }}
         {{ else }}
-          {{ if $page.Params.url_pdf }}
-            {{ $pdf = $page.Params.url_pdf | relURL }}
+          {{ if $item.Params.url_pdf }}
+            {{ $pdf = $item.Params.url_pdf | relURL }}
           {{ end }}
         {{ end }}
         
@@ -64,7 +64,7 @@
           {{ i18n "btn_pdf" }}
         </a>
         {{ end }}
-        {{ $resource := $page.Resources.GetMatch "cite.bib" }}
+        {{ $resource := $item.Resources.GetMatch "cite.bib" }}
         {{ with $resource }}
         <a href="#" class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}} js-cite-modal"
                 data-filename="{{ .RelPermalink }}" style="color: #000000;
