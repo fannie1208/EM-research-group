@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistant Researcher
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
