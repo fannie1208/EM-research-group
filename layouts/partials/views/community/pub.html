@@ -35,22 +35,15 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}><span style="line-height:1;">{{ $item.Title }}</span></a>
     </div>
 
-    <div class="stream-meta article-metadata">
-
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
-    </div>
+    {{ if $item.Params.authorlist }}
+            <div class="article-style" style="line-height: 1.1;">
+                {{ $item.Params.authorlist }}
+            </div>
+    {{ end }}
 
     {{ if $has_attachments }}
     <div class="btn-links">
-        {{ $pdf := $item.Params.url_pdf }}
-
-        
+        {{ partial "links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
 
