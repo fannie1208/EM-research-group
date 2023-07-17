@@ -45,8 +45,8 @@
             <br>
           </div>
   
-          <div class="section-subheading article-title" style="font-size: 1rem; margin-top: 20px;">
-            <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;height:10px;">{{ $item.Title }}</a>
+          <div class="article-style" style="font-size: 1rem; margin-top: 20px;">
+            <a href="{{$link}}" {{ $target | safeHTMLAttr }} style="font-size: 1rem;">{{ $item.Title }}</a>
           </div>
 
           {{ if $item.Params.authorlist }}
