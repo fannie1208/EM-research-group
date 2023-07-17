@@ -48,16 +48,7 @@
 
     {{ if $has_attachments }}
     <div class="btn-links">
-        {{ $pdf := "" }}
-        {{ $resource := $item.Resources.GetMatch (printf "%s.pdf" $item.File.ContentBaseName) }}
-        {{ with $resource }}
-          {{ $pdf = .RelPermalink }}
-        {{ else }}
-          {{ if $item.Params.url_pdf }}
-            {{ $pdf = $item.Params.url_pdf | relURL }}
-          {{ end }}
-        {{ end }}
-        
+        {{ $pdf := $item.Params.url_pdf }}
 
         {{ with $pdf }}
         <a class="btn btn-outline-primary btn-page-header btn-sm{{end}}" style="color: #000000;
