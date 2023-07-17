@@ -8,9 +8,6 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: ''
 hero_media: ''
-cta:
-  label: Learn More
-  url: research
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -38,3 +35,5 @@ design:
 <span style="font-size:1rem;">The <span style="color: #F8E0E0;">Electron Microscope and Extreme Matter (EM) Lab</span> aims to develop and deploy advanced electron miscopy techniques to address pending challenges in engineering systems that involve matters in extreme conditions.</span>
 </div>
 <div style="height:20px;"></div>
+
+<a href="/research" class="btn btn-light btn-md">Learn More</a>
