@@ -9,7 +9,7 @@ show_detail_link: false
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: <span style="font-size:35px;">Meet the Team</span>
 subtitle:
 
 content:

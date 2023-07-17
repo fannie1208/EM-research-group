@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: <span style="font-size:35px;">PUBLICATION</span>
 
 # Listing view
 view: community/pub
