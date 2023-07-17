@@ -11,8 +11,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" style="color: #000000;
-border-color: #000000;
-" href="{{ $link }}" target="_blank" rel="noopener">
+border-color: #000000;" href="{{ $link }}" target="_blank" rel="noopener">
   {{ i18n "btn_preprint" }}
 </a>
 {{ end }}
@@ -27,14 +26,16 @@ border-color: #000000;
 {{ end }}
 
 {{ with $pdf }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" style="color: #000000;
+border-color: #000000;" href="{{ . }}" target="_blank" rel="noopener">
   {{ i18n "btn_pdf" }}
 </a>
 {{ end }}
 {{ $resource := $page.Resources.GetMatch "cite.bib" }}
 {{ with $resource }}
 <a href="#" class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="{{ .RelPermalink }}">
+        data-filename="{{ .RelPermalink }}" style="color: #000000;
+        border-color: #000000;">
   {{ i18n "btn_cite" }}
 </a>
 {{ end }}
