@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: |
+PhD. Student <br>
+BSc in Shandong University
 
 # Organizations/Affiliations
 organizations:

@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: |
   Postdoc  <br>
-  PhD in Stanford University, MEng in MIT, BSc in MIT
+  PhD in Tohoku University
 
 # Organizations/Affiliations
 organizations:

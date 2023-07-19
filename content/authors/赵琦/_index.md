@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: |
+Master's Student <br>
+co-advised
 
 # Organizations/Affiliations
 organizations:
