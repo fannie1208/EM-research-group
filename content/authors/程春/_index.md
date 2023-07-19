@@ -21,9 +21,9 @@ organizations:
 bio: A short bio.
 
 interests:
-  - xxx
-  - xxx
-  - xxx
+  - PhD in Stanford University
+  - MEng in Massachusetts Institute of Technology
+  - BSc in Massachusetts Institute of Technology
 
 education:
   courses:
