@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: |
+  Postdoc 
+  PhD in Stanford University, MEng in MIT, BSc in MIT
 
 # Organizations/Affiliations
 organizations:
