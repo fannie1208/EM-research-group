@@ -11,8 +11,8 @@ superuser: false
 
 # Role/position
 role: |
-PhD. Student <br>
-Master in Xian Jiao Tong University, BSc in NingXia University
+  PhD. Student <br>
+  Master in Xian Jiao Tong University, BSc in NingXia University
 
 
 # Organizations/Affiliations

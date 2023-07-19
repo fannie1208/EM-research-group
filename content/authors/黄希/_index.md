@@ -11,8 +11,8 @@ superuser: false
 
 # Role/position
 role: |
-Visiting Scholar <br>
-Associate Professor in East China University of Technology
+  Visiting Scholar <br>
+  Associate Professor in East China University of Technology
 
 # Organizations/Affiliations
 organizations:

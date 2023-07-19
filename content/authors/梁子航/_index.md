@@ -11,8 +11,8 @@ superuser: false
 
 # Role/position
 role: |
-PhD. Student <br>
-BSc in Shandong University
+  PhD. Student <br>
+  BSc in Shandong University
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Bachelor Student
+role: |
+  Bachelor Student <br>
+  Shanghai Jiao Tong University
 
 # Organizations/Affiliations
 organizations:

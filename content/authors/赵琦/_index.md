@@ -11,8 +11,8 @@ superuser: false
 
 # Role/position
 role: |
-Master's Student <br>
-co-advised
+  Master's Student <br>
+  co-advised
 
 # Organizations/Affiliations
 organizations:
