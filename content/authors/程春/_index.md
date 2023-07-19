@@ -22,8 +22,8 @@ bio: A short bio.
 
 interests:
   - PhD in Stanford University
-  - MEng in Massachusetts Institute of Technology
-  - BSc in Massachusetts Institute of Technology
+  - MEng in MIT
+  - BSc in MIT
 
 education:
   courses:
