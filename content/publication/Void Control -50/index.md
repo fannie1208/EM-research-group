@@ -35,8 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://patents.google.com/patent/US10692574B2/en
-
+url_pdf: 'https://patents.google.com/patent/US10692574B2/en'
 url_poster: ''
 url_project: ''
 url_slides: ''
