@@ -70,7 +70,7 @@ PRINCIPAL INVESTIGATOR</span></div>
     <div class="col-md-6" style="text-align:center;">
       <!-- 图像 -->
       <div data-testid="linkElement" class="j7pOnl">
-        {{< figure src="avatar.jpg" width="320">}}
+        {{< figure src="avatar.jpg" width="120">}}
       </div>
     </div>
   </div>
