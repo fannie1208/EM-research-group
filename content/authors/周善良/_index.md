@@ -13,7 +13,8 @@ publishDate: '2023-03-02'
 # Role/position
 role: |
   Master's Student <br>
-  co-advised
+  co-advised <br>
+  BSc in Nanhua University
 
 # Organizations/Affiliations
 organizations:
