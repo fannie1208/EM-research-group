@@ -13,7 +13,8 @@ publishDate: '2023-03-03'
 # Role/position
 role: |
   Master's Student <br>
-  co-advised
+  co-advised <br>
+  BSc in Shandong First Medical University
 
 # Organizations/Affiliations
 organizations:

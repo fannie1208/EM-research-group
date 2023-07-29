@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: |
-  Postdoc  <br>
+  Postdoc in Osaka University<br>
   PhD in Tohoku University
 
 # Organizations/Affiliations

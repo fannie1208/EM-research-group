@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Zifei Wang
+title: 王子菲
 
 # Username (this should match the folder name)
 authors:
-  - Zifei Wang
+  - 王子菲
 
 # Is this the primary user of the site?
 superuser: false
 
 publishDate: '2023-03-01'
 # Role/position
-role: Master's Student
+role: |
+  Master's Student <br>
+  BSc in Shandong University
 
 # Organizations/Affiliations
 organizations:
