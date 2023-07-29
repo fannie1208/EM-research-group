@@ -13,7 +13,7 @@ superuser: false
 role: |
   Visiting Scholar <br>
   Associate Professor in East China University of Technology <br>
-  Postdoc UC Berkeley <br>
+  Postdoc in UC Berkeley <br>
   PhD in Shanghai Jiao Tong University
 
 # Organizations/Affiliations
