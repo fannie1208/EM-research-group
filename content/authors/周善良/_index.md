@@ -9,6 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+publishDate: '2023-03-02'
 # Role/position
 role: |
   Master's Student <br>
