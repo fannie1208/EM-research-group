@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: contact
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,7 @@ design:
 ---
 
 <div class="sponsor-container">
-  <span>Sponsor:</span>
+  <span>Sponsor</span>
   <div class="images" style="display: grid;
   grid-template-columns: auto 1fr; 
   align-items: center;">
