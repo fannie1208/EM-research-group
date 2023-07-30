@@ -18,7 +18,7 @@ design:
 <div class="sponsor-container" style="width: 75%; margin-left: auto; margin-right: auto;">
   <div class="images" style="display: grid;
   grid-template-columns: auto 1fr; 
-  align-items: center;">
+  align-items: center; gap: 20px;">
     {{< figure src="logo1.jpg" width="200">}}
     {{< figure src="logo2.jpg" height="150">}}
   </div>
