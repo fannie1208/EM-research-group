@@ -19,7 +19,7 @@ design:
   <div class="images" style="display: grid;
   grid-template-columns: auto 1fr; 
   align-items: center;">
-    {{< figure src="logo1.jpg" height="150">}}
+    {{< figure src="logo1.jpg" width="200">}}
     {{< figure src="logo2.jpg" height="150">}}
   </div>
 </div>
