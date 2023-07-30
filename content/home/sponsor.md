@@ -15,7 +15,7 @@ design:
   css_class:
 ---
 
-<div class="sponsor-container" style="width:80%">
+<div class="sponsor-container" style="width: 75%; margin-left: auto; margin-right: auto;">
   <div class="images" style="display: grid;
   grid-template-columns: auto 1fr; 
   align-items: center;">
