@@ -5,7 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
-
+title: <span style="font-size:35px">Sponsor</span>
 # Order that this section appears on the page.
 weight: 40
 
@@ -16,11 +16,10 @@ design:
 ---
 
 <div class="sponsor-container">
-  <span>Sponsor</span>
   <div class="images" style="display: grid;
   grid-template-columns: auto 1fr; 
   align-items: center;">
     {{< figure src="logo1.jpg" height="150">}}
-    {{< figure src="logo2.jpg" height="150">}}
+
   </div>
 </div>
