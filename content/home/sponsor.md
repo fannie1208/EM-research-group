@@ -5,7 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
-title: <span style="font-size:35px">Sponsor</span>
+title: <span style="font-size:35px">SPONSER</span>
 # Order that this section appears on the page.
 weight: 40
 
@@ -15,7 +15,7 @@ design:
   css_class:
 ---
 
-<div class="sponsor-container" style="width: 75%; margin-left: auto; margin-right: auto;">
+<div class="sponsor-container" style="width: 40%; margin-left: auto; margin-right: auto;">
   <div class="images" style="display: grid;
   grid-template-columns: auto 1fr; 
   align-items: center; gap: 20px;">
