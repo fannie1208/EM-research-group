@@ -26,8 +26,7 @@ publication_types: ['2']
 publication: 'Advanced Materials'
 publication_short: ''
 
-abstract: 
-The first black-phosphorus synaptic device is demonstrated, which offers intrinsic anisotropy in its synaptic characteristics directly resulting from its low crystalline symmetry. Key features of biological synapses, such as long-term plasticity with heterogeneity, including long-term potentiation/depression and spike-timing-dependent plasticity, are mimicked. This demonstration represents an important step toward introducing intrinsic heterogeneity to artificial neuromorphic systems.
+abstract: The first black-phosphorus synaptic device is demonstrated, which offers intrinsic anisotropy in its synaptic characteristics directly resulting from its low crystalline symmetry. Key features of biological synapses, such as long-term plasticity with heterogeneity, including long-term potentiation/depression and spike-timing-dependent plasticity, are mimicked. This demonstration represents an important step toward introducing intrinsic heterogeneity to artificial neuromorphic systems.
 # Summary. An optional shortened abstract.
 summary: The first black-phosphorus synaptic device is demonstrated, which offers intrinsic anisotropy in its synaptic characteristics directly resulting from its low crystalline symmetry. Key features of biological synapses, 
   - All Publications
